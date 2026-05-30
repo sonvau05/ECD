@@ -1,0 +1,5 @@
+com\example\ejb\VisitorCounterEJB.class
+com\example\ejb\StringProcessorEJB.class
+com\example\servlet\HomeServlet.class
+com\example\servlet\StringProcessorServlet.class
+com\Main.class
