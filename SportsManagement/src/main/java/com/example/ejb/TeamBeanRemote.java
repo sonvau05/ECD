@@ -1,0 +1,1 @@
+package com.example.ejb; public interface TeamBeanRemote {}
