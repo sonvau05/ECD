@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence">
+  <persistence-unit name="ExamPU" transaction-type="JTA">
+    <jta-data-source>java:app/jdbc/exam_db</jta-data-source>
+    <class>entity.Exam</class>
+  </persistence-unit>
+</persistence>
